@@ -14,8 +14,6 @@ int main()
   vector < vector < int > > matrix(n, vector < int > (m)); // the matrix of the image
   vector < vector < int > > ans(n, vector < int > (m)); // the matrix of the new image
 
-
-
   int threshold = 128; // the threshold value for black and white
 
   // input the matrix of the image

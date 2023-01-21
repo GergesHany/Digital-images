@@ -32,11 +32,9 @@ int main()
       for(int x = 0; x < k; x++) // loop over the threshold matrix
       {
         for(int y = 0; y < k; y++){ // loop over the threshold matrix
-
           // if the pixel is greater than the threshold pixel then make it 255 else make it 0
           if(matrix[i + x][j + y] >= thr[x][y]) ans[i + x][j + y] = 255;
           else ans[i + x][j + y] = 0;
-        
         }
       }
     }

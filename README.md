@@ -4,6 +4,7 @@
 - Error diffusion dither (Floyd-Steinberg)
 - Ordered dithering
 - Pattern dithering
+
 ![(793)](https://user-images.githubusercontent.com/105644935/213925949-0d00925e-ad48-4652-89e5-bf92c84f869a.png)
 
 
